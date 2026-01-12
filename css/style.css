@@ -95,7 +95,7 @@ nav {
 
 .nav-list a:hover {
     color: #fbf4eb;
-    background-color: rgba(214, 90, 143, 1);
+    background-color: ##16422b(214, 90, 143, 1);
     ;
 }
 
@@ -479,3 +479,4 @@ footer::before {
     left: 50px;
     right: 50px;
 }
+
